@@ -1,0 +1,133 @@
+load data takes 16.0 seconds
+data size: n_sample = 3258; n_gene = 4246
+generate and save training and validation data
+visualize data
+Current K: 5
+fit with NMF_KL
+Epoch 10 reached after 5.815 seconds, error: 3749.355917
+Epoch 20 reached after 10.976 seconds, error: 3729.371084
+Epoch 30 reached after 16.162 seconds, error: 3713.658962
+Epoch 40 reached after 21.268 seconds, error: 3702.582681
+Epoch 50 reached after 26.330 seconds, error: 3694.743288
+Epoch 60 reached after 31.369 seconds, error: 3689.549013
+Epoch 70 reached after 36.425 seconds, error: 3686.173593
+Epoch 80 reached after 41.466 seconds, error: 3683.856814
+Epoch 90 reached after 46.480 seconds, error: 3682.134714
+Epoch 100 reached after 51.531 seconds, error: 3680.762168
+Epoch 110 reached after 56.543 seconds, error: 3679.601614
+Epoch 120 reached after 61.553 seconds, error: 3678.573379
+Epoch 130 reached after 66.562 seconds, error: 3677.630729
+transform data with fitted model
+Epoch 10 reached after 3.351 seconds, error: 3688.886274
+Epoch 20 reached after 6.124 seconds, error: 3680.134910
+Epoch 30 reached after 8.870 seconds, error: 3678.479184
+Epoch 40 reached after 11.617 seconds, error: 3677.910468
+Epoch 50 reached after 14.366 seconds, error: 3677.658660
+fit and transform with 1000 iterations after 82.9
+poisson loss in training set  : 5.0258e+07
+poisson loss in validation set: 5.0169e+07
+plot and save p value
+save files
+Current K: 10
+fit with NMF_KL
+Epoch 10 reached after 5.746 seconds, error: 3734.699097
+Epoch 20 reached after 10.905 seconds, error: 3704.628509
+Epoch 30 reached after 16.019 seconds, error: 3682.161636
+Epoch 40 reached after 21.131 seconds, error: 3665.223443
+Epoch 50 reached after 26.232 seconds, error: 3653.428638
+Epoch 60 reached after 31.332 seconds, error: 3646.854623
+Epoch 70 reached after 36.433 seconds, error: 3642.878122
+Epoch 80 reached after 41.529 seconds, error: 3640.116464
+Epoch 90 reached after 46.633 seconds, error: 3638.036306
+Epoch 100 reached after 51.808 seconds, error: 3636.390137
+Epoch 110 reached after 56.913 seconds, error: 3635.048352
+transform data with fitted model
+Epoch 10 reached after 3.404 seconds, error: 3657.365580
+Epoch 20 reached after 6.209 seconds, error: 3641.098294
+Epoch 30 reached after 9.015 seconds, error: 3637.418372
+Epoch 40 reached after 11.825 seconds, error: 3636.076407
+Epoch 50 reached after 14.662 seconds, error: 3635.464913
+Epoch 60 reached after 17.470 seconds, error: 3635.143588
+fit and transform with 1000 iterations after 76.1
+poisson loss in training set  : 5.0413e+07
+poisson loss in validation set: 5.0294e+07
+plot and save p value
+save files
+Current K: 20
+fit with NMF_KL
+Epoch 10 reached after 5.840 seconds, error: 3723.243445
+Epoch 20 reached after 11.090 seconds, error: 3686.262318
+Epoch 30 reached after 16.337 seconds, error: 3659.458464
+Epoch 40 reached after 21.579 seconds, error: 3641.167269
+Epoch 50 reached after 26.833 seconds, error: 3629.932539
+Epoch 60 reached after 32.091 seconds, error: 3623.001168
+Epoch 70 reached after 37.379 seconds, error: 3618.186228
+Epoch 80 reached after 42.627 seconds, error: 3614.578933
+Epoch 90 reached after 47.898 seconds, error: 3611.771634
+Epoch 100 reached after 53.183 seconds, error: 3609.521920
+Epoch 110 reached after 58.468 seconds, error: 3607.672648
+transform data with fitted model
+Epoch 10 reached after 3.471 seconds, error: 3644.664513
+Epoch 20 reached after 6.345 seconds, error: 3619.348801
+Epoch 30 reached after 9.216 seconds, error: 3612.703106
+Epoch 40 reached after 12.099 seconds, error: 3609.961079
+Epoch 50 reached after 14.975 seconds, error: 3608.581722
+Epoch 60 reached after 17.846 seconds, error: 3607.794627
+Epoch 70 reached after 20.720 seconds, error: 3607.305364
+fit and transform with 1000 iterations after 81.1
+poisson loss in training set  : 5.0514e+07
+poisson loss in validation set: 5.0341e+07
+plot and save p value
+save files
+Current K: 50
+fit with NMF_KL
+Epoch 10 reached after 6.390 seconds, error: 3711.760202
+Epoch 20 reached after 12.146 seconds, error: 3662.112382
+Epoch 30 reached after 17.914 seconds, error: 3626.527551
+Epoch 40 reached after 23.683 seconds, error: 3605.826432
+Epoch 50 reached after 29.463 seconds, error: 3593.483646
+Epoch 60 reached after 35.256 seconds, error: 3585.316087
+Epoch 70 reached after 41.017 seconds, error: 3579.343086
+Epoch 80 reached after 46.813 seconds, error: 3574.702111
+Epoch 90 reached after 52.579 seconds, error: 3570.951353
+Epoch 100 reached after 58.347 seconds, error: 3567.841050
+transform data with fitted model
+Epoch 10 reached after 3.730 seconds, error: 3630.456416
+Epoch 20 reached after 6.873 seconds, error: 3590.201960
+Epoch 30 reached after 10.015 seconds, error: 3578.531359
+Epoch 40 reached after 13.158 seconds, error: 3573.035852
+Epoch 50 reached after 16.303 seconds, error: 3569.994432
+Epoch 60 reached after 19.448 seconds, error: 3568.134822
+Epoch 70 reached after 22.591 seconds, error: 3566.918014
+Epoch 80 reached after 25.735 seconds, error: 3566.081431
+fit and transform with 1000 iterations after 86.5
+poisson loss in training set  : 5.0662e+07
+poisson loss in validation set: 5.0355e+07
+plot and save p value
+save files
+Current K: 100
+fit with NMF_KL
+Epoch 10 reached after 6.928 seconds, error: 3705.109294
+Epoch 20 reached after 13.248 seconds, error: 3646.097192
+Epoch 30 reached after 19.596 seconds, error: 3602.525833
+Epoch 40 reached after 25.913 seconds, error: 3576.581327
+Epoch 50 reached after 32.241 seconds, error: 3559.984014
+Epoch 60 reached after 38.551 seconds, error: 3548.758287
+Epoch 70 reached after 44.847 seconds, error: 3540.735613
+Epoch 80 reached after 51.148 seconds, error: 3534.712857
+Epoch 90 reached after 57.450 seconds, error: 3529.984108
+transform data with fitted model
+Epoch 10 reached after 4.031 seconds, error: 3620.268925
+Epoch 20 reached after 7.461 seconds, error: 3568.062657
+Epoch 30 reached after 10.891 seconds, error: 3549.741070
+Epoch 40 reached after 14.325 seconds, error: 3540.224334
+Epoch 50 reached after 17.754 seconds, error: 3534.685594
+Epoch 60 reached after 21.190 seconds, error: 3531.207836
+Epoch 70 reached after 24.619 seconds, error: 3528.897030
+Epoch 80 reached after 28.049 seconds, error: 3527.293253
+Epoch 90 reached after 31.480 seconds, error: 3526.141210
+fit and transform with 1000 iterations after 92.0
+poisson loss in training set  : 5.0803e+07
+poisson loss in validation set: 5.0324e+07
+plot and save p value
+save files

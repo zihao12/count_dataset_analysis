@@ -1,0 +1,37 @@
+data size: n_sample = 537; n_gene = 52859
+
+
+Current K: 1
+fit and transform with 20 iterations after 89.9
+poisson loss in training set  : 1.3665e+11
+poisson loss in validation set: 1.3665e+11
+
+
+Current K: 2
+fit and transform with 110 iterations after 2.72e+02
+poisson loss in training set  : 1.3966e+11
+poisson loss in validation set: 1.3966e+11
+
+
+Current K: 3
+fit and transform with 340 iterations after 7.64e+02
+poisson loss in training set  : 1.4041e+11
+poisson loss in validation set: 1.4041e+11
+
+
+Current K: 5
+fit and transform with 1000 iterations after 2.18e+03
+poisson loss in training set  : 1.408e+11
+poisson loss in validation set: 1.408e+11
+
+
+Current K: 7
+fit and transform with 1000 iterations after 2.26e+03
+poisson loss in training set  : 1.409e+11
+poisson loss in validation set: 1.409e+11
+
+
+Current K: 10
+fit and transform with 1000 iterations after 2.33e+03
+poisson loss in training set  : 1.4102e+11
+poisson loss in validation set: 1.4102e+11

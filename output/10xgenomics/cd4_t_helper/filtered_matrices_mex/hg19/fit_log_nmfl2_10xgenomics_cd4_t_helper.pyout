@@ -1,0 +1,33 @@
+load data
+data size: n_sample = 11213; n_gene = 438
+
+Current K: 2
+fit with NMF_L2 on transformed data
+fit and transform with 999 iterations after 33.1
+poisson loss in training set  : 5.4006e+06
+poisson loss in validation set: 5.4006e+06
+Current K: 5
+fit with NMF_L2 on transformed data
+fit and transform with 999 iterations after 35.5
+poisson loss in training set  : 5.403e+06
+poisson loss in validation set: 5.403e+06
+Current K: 10
+fit with NMF_L2 on transformed data
+fit and transform with 999 iterations after 39.6
+poisson loss in training set  : 5.5329e+06
+poisson loss in validation set: 5.5329e+06
+Current K: 20
+fit with NMF_L2 on transformed data
+fit and transform with 999 iterations after 49.5
+poisson loss in training set  : 5.6923e+06
+poisson loss in validation set: 5.6923e+06
+Current K: 50
+fit with NMF_L2 on transformed data
+fit and transform with 999 iterations after 99.4
+poisson loss in training set  : 6.0468e+06
+poisson loss in validation set: 6.0468e+06
+Current K: 100
+fit with NMF_L2 on transformed data
+fit and transform with 999 iterations after 2.41e+02
+poisson loss in training set  : 6.5561e+06
+poisson loss in validation set: 6.5561e+06
